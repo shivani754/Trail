@@ -1,0 +1,12 @@
+Project Details!!
+ Hey guys, Me Shivani this side. 
+So we all need to make a project for resolving the problem of our University's panitry. 
+All we require as guided by our Mam Anshu is: 
+1.to maintain the database for all blocks and then for each floor of each block. 
+2.online transaction. 
+3.inter connection between the square one database and panitry app. 
+4.The code we need to write is to record the timings of the teachers that is at what time they will be free and they will be served with food. 
+5.it should maintain the record of the days,teacher had ordered the food. 
+Only these things are striking in my mind.If anyone remember something else.Please be free to change.
+[:)haha] 
+Thanks.
